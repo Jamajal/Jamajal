@@ -6,7 +6,7 @@
 - 🔭 Atualmente trabalho na Voluda SD como desenvolvedor web;
 - 🌱 Estou estudando sobre Javascript, Nodejs e React;
 - 🌟 Procuro sempre aprender mais sobre novas tecnologias e sobre as que já utilizo;
-- 📫 Conta-me no email: leandroliberiomachado@hotmail.com
+- 📫 Contate-me no email: leandroliberiomachado@hotmail.com
 
 Comecei a programar em 2019, quando comecei meu curso de Ciências da Computação da UFOP, mas por uma série de eventos só pude investir mesmo nessa área em 2021, foi quando tive meu contato com desenvolvimento web. Estou aprendendo Javascript pelo Curso de Javascript Roger Melo e as outras linguagens estudo de forma mais independente. Me encontro fascinado por programação e é tanta coisa legal pra aprender que eu chego a ficar perdido, mas com muito estudo e dedicação espero me capacitar para ser um bom programador na área de desenvolvimento web ou em alguma outra área q eu decidir migrar, pois nunca se sabe né?
 
