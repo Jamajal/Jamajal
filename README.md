@@ -1,4 +1,4 @@
-## Olá eu me chamo Leandro, prazer tem te conhecer 👋
+## Olá eu me chamo Leandro, prazer em te conhecer 👋
 
 ### Alguns pontos sobre mim:
 
@@ -8,7 +8,7 @@
 - 🌟 Procuro sempre aprender mais sobre novas tecnologias e sobre as que já utilizo;
 - 📫 Contate-me no email: leandroliberiomachado@hotmail.com
 
-Comecei a programar em 2019, quando comecei meu curso de Ciências da Computação da UFOP, mas por uma série de eventos só pude investir mesmo nessa área em 2021, foi quando tive meu contato com desenvolvimento web. Estou aprendendo Javascript pelo Curso de Javascript Roger Melo e as outras linguagens estudo de forma mais independente. Me encontro fascinado por programação e é tanta coisa legal pra aprender que eu chego a ficar perdido, mas com muito estudo e dedicação espero me capacitar para ser um bom programador na área de desenvolvimento web ou em alguma outra área q eu decidir migrar, pois nunca se sabe né?
+Comecei a programar em 2019, quando comecei meu curso de Ciências da Computação da UFOP, mas por uma série de eventos só pude entrar nesse meio de cabeça mesmo em 2021, foi quando tive meu contato com desenvolvimento web. Estou aprendendo Javascript pelo Curso de Javascript Roger Melo e as outras linguagens estudo de forma mais independente. Me encontro fascinado por programação e é tanta coisa legal pra aprender que eu chego a ficar perdido, mas com muito estudo e dedicação espero me capacitar para ser um bom programador na área de desenvolvimento web ou em alguma outra área q eu decidir migrar, pois nunca se sabe né?
 
 <div>
   <a href="https://github.com/Jamajal">
