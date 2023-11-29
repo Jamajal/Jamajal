@@ -2,8 +2,8 @@
 
 ### Alguns pontos sobre mim:
 
-- 💁 Sou um desenvolvedor junior
-- 🔭 Atualmente trabalho na Voluda SD como desenvolvedor web;
+- 💁 Sou um desenvolvedor iniciante, Estou graduando em Ciências da Computação
+- 🔭 Atualmente estou investindo na área de desenvolvimento web;
 - 🌱 Estou estudando sobre Javascript, Nodejs e React;
 - 🌟 Procuro sempre aprender mais sobre novas tecnologias e sobre as que já utilizo;
 - 📫 Contate-me no email: leandroliberiomachado@hotmail.com
@@ -29,4 +29,4 @@ Comecei a programar em 2019, quando comecei meu curso de Ciências da Computaç�
   
   <a href="https://instagram.com/jamal1leandro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/Jamajal/Jamajal/blob/output/github-contribution-grid-snake.svg)
+  
