@@ -2,13 +2,15 @@
 
 ### Alguns pontos sobre mim:
 
-- 💁 Sou um desenvolvedor iniciante, Estou graduando em Ciências da Computação
-- 🔭 Atualmente estou investindo na área de desenvolvimento web;
-- 🌱 Estou estudando sobre Javascript, Nodejs e React;
-- 🌟 Procuro sempre aprender mais sobre novas tecnologias e sobre as que já utilizo;
-- 📫 Contate-me no email: leandroliberiomachado@hotmail.com
+- 💁 Sou um desenvolvedor em fase inicial de carreira; 
+- 🔭 Me graduei em Ciência da Computação na UFOP e procuro uma oportunidade Trainee ou Junior;
+- 🌟 Em minha meus anos de programação estudei bastante sobre React, Node.js e Django;
+- 🌱 No momento estou estudando sobre Java, vislumbrando Spring no futuro;
+- 📫 Contate-me no email: leandroliberiomachado9@gmail.com
 
-Comecei a programar em 2019, quando comecei meu curso de Ciências da Computação da UFOP, mas por uma série de eventos só pude entrar nesse meio de cabeça mesmo em 2021, foi quando tive meu contato com desenvolvimento web. Estou aprendendo Javascript pelo Curso de Javascript Roger Melo e as outras linguagens estudo de forma mais independente. Me encontro fascinado por programação e é tanta coisa legal pra aprender que eu chego a ficar perdido, mas com muito estudo e dedicação espero me capacitar para ser um bom programador na área de desenvolvimento web ou em alguma outra área q eu decidir migrar, pois nunca se sabe né?
+Comecei a programar em 2019, quando comecei meu curso de Ciências da Computação da UFOP, mas por uma série de eventos só pude entrar nesse meio de cabeça mesmo em 2021, foi quando tive meu contato com desenvolvimento web. Trabalhei durante um ano e meio na Voluta Soluções Digitais, atuando como dev Full Stack, onde estudei bastante sobre React e Node.js, após a minha saída continuei estudando essas tecnologias. No final de minha graduação, em meu projeto de tcc, eu refiz um site corretor de código fonte usado pela faculdade, utilizando React no Frontend e Django no Backend, foi quando passei bastante tempo estudando essa tecnologia também. Atualmente estou estudando Java, uma linguagem que tive pouco contato na graduação e acredito que tenha um excelente potêncial para crescer nessa área. Além disso, gostaria de colocar a ferramenta Spring no currículo em um futuro. 
+
+Atualmente estou procurando oportunidades Full Stack, mas não tenho problemas em atuar como Front ou Back.
 
 <div>
   <a href="https://github.com/Jamajal">
